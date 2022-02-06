@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "647208058344",
+    "project_id": "coba-be558",
+    "storage_bucket": "coba-be558.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647208058344:android:49f4ad11eb92fbfe45385d",
+        "android_client_info": {
+          "package_name": "com.example.latihan_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647208058344-ajhdc73lovnpor4t5gt6ni0b4n4fjcrm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuQRkSBfCLOmBhhKIxteSvlRvOUIJMaAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647208058344-ajhdc73lovnpor4t5gt6ni0b4n4fjcrm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647208058344:android:bbc8377a58f5a4b145385d",
+        "android_client_info": {
+          "package_name": "com.example.notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647208058344-ajhdc73lovnpor4t5gt6ni0b4n4fjcrm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuQRkSBfCLOmBhhKIxteSvlRvOUIJMaAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647208058344-ajhdc73lovnpor4t5gt6ni0b4n4fjcrm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
